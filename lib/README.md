@@ -1,1 +1,0 @@
-# This is news app with api integration
